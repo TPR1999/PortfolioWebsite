@@ -14,3 +14,13 @@
     .topnav a:hover {
         background-color: #ddd;
         color: black;}
+
+h1{
+    text-align:center;
+    font-family:sans-serif
+}
+
+body {
+    background-color:deepskyblue;
+    
+}
